@@ -7,6 +7,7 @@
 * (2.0000, 1.3000) inches
 * (50.8000, 33.0200) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
